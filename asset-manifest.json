@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/excel-hell/static/css/main.85d97ecb.css",
+    "main.js": "/excel-hell/static/js/main.070bafae.js",
+    "static/js/787.7c7fd435.chunk.js": "/excel-hell/static/js/787.7c7fd435.chunk.js",
+    "static/media/clown.gif": "/excel-hell/static/media/clown.fc84a151bc97e017e591.gif",
+    "index.html": "/excel-hell/index.html",
+    "main.85d97ecb.css.map": "/excel-hell/static/css/main.85d97ecb.css.map",
+    "main.070bafae.js.map": "/excel-hell/static/js/main.070bafae.js.map",
+    "787.7c7fd435.chunk.js.map": "/excel-hell/static/js/787.7c7fd435.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85d97ecb.css",
+    "static/js/main.070bafae.js"
+  ]
+}
